@@ -1,0 +1,16 @@
+{
+    'name': 'Elitbuzz whatsapp api',
+    'version': '1.0',
+    'summary': 'Elitbuzz whatsapp api',
+    'sequence': 200,
+    'description': """Developed by Md. Ashikuzzaman.""",
+    'category': '',
+    'website': '',
+    'depends': ['crm'],
+    'data': [],
+    'demo': [],
+    'installable': True,
+    'application': True,
+    'assets': {},
+    'license': 'LGPL-3',
+}
